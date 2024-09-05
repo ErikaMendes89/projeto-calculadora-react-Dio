@@ -36,5 +36,8 @@ Adição das operações de multiplicação e divisão, além das já existentes
 </ol>
 O projeto será aberto no navegador em http://localhost:3000.
 <br><br>
+<hr>
+<img src="https://github.com/ErikaMendes89/projeto-calculadora-react-Dio/blob/master/Captura%20de%20tela%202024-09-05%20150910.png">
+
 
 
